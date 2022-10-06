@@ -12,7 +12,7 @@ DELETE cats/:id
 
 Use sample post request with json body: <br />
 { <br />
-      "name": "speeder", <br />
-      "breed": "abcde", <br />
-      "age": 42 <br />
+   &nbsp;   "name": "speeder", <br />
+    &nbsp;  "breed": "abcde", <br />
+    &nbsp;  "age": 42 <br />
 }
