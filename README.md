@@ -4,7 +4,7 @@ To start the server, spin up kafka using the docker compose file provided and ru
 
 Available endpoints:
 
-POST /cats
+POST /cats <br />
 READ /cats
 READ /cats/:id
 PATCH /cats/:id
