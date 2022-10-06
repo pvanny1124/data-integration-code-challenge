@@ -10,9 +10,9 @@ READ /cats/:id <br />
 PATCH /cats/:id <br />
 DELETE cats/:id 
 
-Use sample post request with json body:
-{
-    "name": "speeder",
-    "breed": "abcde",
-    "age": 42
+Use sample post request with json body: <br />
+{ <br />
+    "name": "speeder", <br />
+    "breed": "abcde", <br />
+    "age": 42 <br />
 }
