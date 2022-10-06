@@ -5,10 +5,10 @@ To start the server, spin up kafka using the docker compose file provided and ru
 Available endpoints:
 
 POST /cats <br />
-READ /cats
-READ /cats/:id
-PATCH /cats/:id
-DELETE cats/:id
+READ /cats <br />
+READ /cats/:id <br />
+PATCH /cats/:id <br />
+DELETE cats/:id 
 
 Use sample post request with json body:
 {
